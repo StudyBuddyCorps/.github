@@ -6,13 +6,10 @@ StudyBuddy는 가상의 캐릭터 `노티`가 학습 자세를 관찰하고 피�
 
 <br>
 
-### 🎥 Demonstration video      
-<video width="640" height="360" controls>
-  <source src="https://example.com/path/to/your/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### 🎥 Demo Video    
+[![StudyBuddy Demo](https://github.com/user-attachments/assets/113016ff-fdf7-40be-9de5-a25691c5c492)](https://youtu.be/c8Y2JzhNGsQ?feature=shared)
 
-<br><br>
+<br>
 
 ## 📌 System Archtecture
 ![image](https://github.com/user-attachments/assets/af2ef79f-2f5f-4fbd-8dd8-347fe6fed1d6)
