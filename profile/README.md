@@ -34,7 +34,7 @@ StudyBuddy is an educational platform where the virtual character 'Noti' observe
       <td align="center">Role</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/juijeong8324">배주현</td>
+      <td align="center"><a href="https://github.com/qowngus33">배주현</td>
       <td align="left">       
         Vision Model Developer
       </td>
