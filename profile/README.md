@@ -42,8 +42,7 @@ StudyBuddy is an educational platform where the virtual character 'Noti' observe
     <tr>
       <td align="center"><a href="https://github.com/juijeong8324">전의정</td>
       <td align="left">
-        Frontend, Backend Developer      
-        UI, UX Design
+        Frontend, Backend Developer / UI, UX Design
       </td>
     <tr/>
     <tr>
