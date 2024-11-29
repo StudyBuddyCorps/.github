@@ -23,3 +23,34 @@ StudyBuddy is an educational platform where the virtual character 'Noti' observe
 ### 1️⃣ [Front-end](https://github.com/StudyBuddyCorps/Front-end)      
 ### 2️⃣ [Back-end](https://github.com/StudyBuddyCorps/Back-end)      
 ### 3️⃣ [Vision](https://github.com/StudyBuddyCorps/study_judgment_model)
+
+<br>      
+
+## 😎 Role
+<table>
+  <tbody>
+    <tr>
+      <td align="center">Name</td>
+      <td align="center">Role</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/juijeong8324">배주현</td>
+      <td align="left">       
+        Vision Model Developer
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/juijeong8324">전의정</td>
+      <td align="left">
+        Frontend, Backend Developer      
+        UI, UX Design
+      </td>
+    <tr/>
+    <tr>
+      <td align="center"><a href="https://github.com/Jisu0528">한지수</td>
+      <td align="left"> 
+        Frontend, Backend Developer
+      </td>
+    </tr>
+  </tbody>
+</table>
